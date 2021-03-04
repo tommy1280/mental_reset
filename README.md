@@ -1,4 +1,4 @@
-## メンタルリセット(仮)
+## メンタルサプリ(仮)
 
 仕事や勉強中に落ち込んだ気持ちをうまく切り替えられないとき、  
 
@@ -65,3 +65,6 @@
 
 ## 画面遷移図
 https://xd.adobe.com/view/325d3b3a-b42f-42c4-8dea-0ec4aef5f15a-670e/
+
+## ERD
+https://drive.google.com/file/d/1Qn3eXYgHGV6gwLDNtO9ATWe395byVmdG/view?usp=sharing
